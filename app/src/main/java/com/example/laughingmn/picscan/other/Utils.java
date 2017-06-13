@@ -20,9 +20,8 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by janisharali on 21/08/16.
- */
+ 
+
 public class Utils {
 
     private static final String TAG = "Utils";
