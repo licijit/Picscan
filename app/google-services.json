@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1088315784445",
+    "firebase_url": "https://picscan-6d879.firebaseio.com",
+    "project_id": "picscan-6d879",
+    "storage_bucket": "picscan-6d879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088315784445:android:5c9ad05bd368051c",
+        "android_client_info": {
+          "package_name": "com.example.laughingmn.picscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088315784445-u8qba4vsrc38aobmvlcqb8shdr1pf7n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEowW4XeFKsURzHfTC-uDuabNnB0z9X3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
