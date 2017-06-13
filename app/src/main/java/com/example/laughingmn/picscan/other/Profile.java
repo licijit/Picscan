@@ -3,9 +3,8 @@ package com.example.laughingmn.picscan.other;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by janisharali on 29/08/16.
- */
+
+
 public class Profile {
 
     @SerializedName("name")
